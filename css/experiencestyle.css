@@ -261,7 +261,7 @@ img {
 }
 .skills__text {
   margin-bottom: var(--mb-4);
-  width: 215%;
+  width: 100%;
 }
 .skills__data .dropdown-content {
   display: flex;
